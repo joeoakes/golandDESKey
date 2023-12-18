@@ -27,4 +27,5 @@ func main() {
 
 	// Print the generated DES key as a hexadecimal string
 	fmt.Printf("Generated DES Key: %x\n", key)
+	fmt.Printf("Generated DES Key: %x\n", desKey)
 }
